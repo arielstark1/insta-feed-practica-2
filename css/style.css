@@ -6,12 +6,12 @@ body{background-color: gray;
     font-family: 'Roboto', sans-serif;
     background-color:white;
     width:500px;
-    height:15000px;
+    height:3125px;
     margin: auto;
 }
 
-.head{
-    max-width: 100%;width:100%;height:100px;background-color:white;margin:auto;
+.heading{
+ height:100px;background-color:white;margin:0px 0px;
 }
 
 .title{
