@@ -1,17 +1,21 @@
-body{background-color: gray;
+body{background-color: rgb(219, 213, 213);
 
 
 }
 .postcard-head{
     font-family: 'Roboto', sans-serif;
-    background-color:white;
+    background-color:whitesmoke;
     width:500px;
-    height:3125px;
+    height:680px;
     margin: auto;
 }
 
 .heading{
- height:100px;background-color:white;margin:0px 0px;
+ height:100px;
+ background-color:white;
+ margin:0px 0px;
+ text-align: center;
+ width:100%;
 }
 
 .title{
@@ -20,7 +24,7 @@ body{background-color: gray;
 }
 
 
-.image img{width:500px;height:500px;background-color:white;margin:auto}
+.image img{width:500px;height:600px;background-color:white;margin:auto}
 
 
 
